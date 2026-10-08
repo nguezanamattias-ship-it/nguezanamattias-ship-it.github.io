@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="800" y2="500" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#122028"/><stop offset="1" stop-color="#1A3040"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <rect x="100" y="80" width="600" height="340" rx="16" fill="#121C2E" stroke="rgba(148,163,184,0.12)" stroke-width="1.5"/>
+  <rect x="100" y="80" width="600" height="44" rx="16" fill="rgba(0,0,0,0.2)"/>
+  <circle cx="130" cy="102" r="6" fill="#EF4444"/><circle cx="152" cy="102" r="6" fill="#F59E0B"/><circle cx="174" cy="102" r="6" fill="#22C55E"/>
+  <rect x="200" y="94" width="200" height="16" rx="4" fill="rgba(148,163,184,0.1)"/>
+  <rect x="120" y="150" width="160" height="250" rx="10" fill="rgba(18,28,46,0.8)" stroke="rgba(148,163,184,0.08)"/>
+  <rect x="136" y="170" width="128" height="10" rx="3" fill="rgba(0,212,170,0.4)"/>
+  <rect x="136" y="200" width="100" height="8" rx="3" fill="rgba(148,163,184,0.12)"/>
+  <rect x="136" y="220" width="100" height="8" rx="3" fill="rgba(148,163,184,0.12)"/>
+  <rect x="136" y="240" width="100" height="8" rx="3" fill="rgba(148,163,184,0.12)"/>
+  <rect x="136" y="280" width="100" height="8" rx="3" fill="rgba(59,130,246,0.25)"/>
+  <rect x="300" y="150" width="380" height="120" rx="10" fill="rgba(18,28,46,0.6)" stroke="rgba(148,163,184,0.08)"/>
+  <polyline points="320,240 360,200 400,220 440,170 480,190 520,150 560,165 660,130" stroke="#00D4AA" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="560" cy="165" r="5" fill="#00D4AA"/>
+  <rect x="300" y="290" width="380" height="110" rx="10" fill="rgba(18,28,46,0.6)" stroke="rgba(148,163,184,0.08)"/>
+  <rect x="320" y="310" width="340" height="12" rx="3" fill="rgba(148,163,184,0.08)"/>
+  <rect x="320" y="310" width="220" height="12" rx="3" fill="rgba(59,130,246,0.35)"/>
+  <rect x="320" y="334" width="340" height="12" rx="3" fill="rgba(148,163,184,0.08)"/>
+  <rect x="320" y="334" width="280" height="12" rx="3" fill="rgba(0,212,170,0.3)"/>
+  <rect x="320" y="358" width="340" height="12" rx="3" fill="rgba(148,163,184,0.08)"/>
+  <rect x="320" y="358" width="180" height="12" rx="3" fill="rgba(99,102,241,0.35)"/>
+  <text x="400" y="455" text-anchor="middle" font-family="system-ui,sans-serif" font-size="14" font-weight="600" fill="#94A3B8" letter-spacing="0.08em">GESTION �TUDIANTS � KEYCE</text>
+</svg>
